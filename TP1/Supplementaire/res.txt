@@ -1,0 +1,23 @@
+pression artérielle élevée: 10
+bouche sèche: 8
+fièvre: 7
+inflammation: 7
+toux: 6
+nausée: 5
+vision floue: 5
+étourdissement: 5
+anxiété: 5
+pupilles dilatées: 4
+tremblement: 4
+nuque raide: 4
+insomnie: 4
+pression artérielle basse: 4
+éruption cutanée: 4
+douleur abdominale: 3
+mal de tête: 3
+pupilles contractées: 3
+essoufflement: 3
+arythmies: 3
+rétention d'eau: 1
+aveuglement: 1
+rythme cardiaque rapide: 1
