@@ -1,0 +1,6 @@
+amine,bourek,M,15/04/1960,1980
+mourad,kabir,M,11/03/2000,2020
+walid,hasnaoui,M,15/04/1950,1990
+hadi,dib,M,15/04/1980,2000
+fatima,cherfaoui,F,15/04/1970,1990
+amina,selaadji,F,15/04/1980,2000
